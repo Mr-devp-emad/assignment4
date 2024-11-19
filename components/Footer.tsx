@@ -1,6 +1,7 @@
 "use client"
 
-import { FaApplePay, FaCcPaypal, FaFacebook, FaGithub, FaInstagram, FaTwitter } from "react-icons/fa";
+import { FaApplePay, FaCcPaypal, FaFacebook,
+   FaGithub, FaInstagram, FaTwitter } from "react-icons/fa";
 import { RiMastercardFill, RiVisaLine } from "react-icons/ri";
 
 

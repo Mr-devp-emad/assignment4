@@ -1,10 +1,10 @@
 "use client";
 
 import Image from "next/image";
-import TPS1 from "@/assets/TPS1.png";
-import TPS2 from "@/assets/TPS2.png";
-import TPS3 from "@/assets/TPS3.png";
-import TPS4 from "@/assets/TPS4.png";
+import TPS1 from "@/assets/TopSell1.png";
+import TPS2 from "@/assets/TopSell2.png";
+import TPS3 from "@/assets/TopSell3.png";
+import TPS4 from "@/assets/TopSell4.png";
 
 import { MdStarHalf, MdStarRate } from "react-icons/md";
 
